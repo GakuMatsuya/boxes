@@ -1,0 +1,7 @@
+.boxes {
+  width: 600px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
